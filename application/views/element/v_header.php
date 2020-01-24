@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <title><?php echo $title ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Aplikasi toko sederhana dengan Codeigniter">
-    <meta name="author" content="Djava-ui">
+    <meta name="description" content="Aplikasi penjualan toko sederhana dengan Codeigniter">
+    <meta name="author" content="Herich">
 
     <!-- CSS -->
     <link rel="stylesheet" href="<?php echo base_url('asset/css/bootstrap.css') ?>" />
